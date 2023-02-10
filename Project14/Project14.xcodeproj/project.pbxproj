@@ -16,6 +16,9 @@
 		11706B03299554E30020FE1D /* whackBad.caf in Resources */ = {isa = PBXBuildFile; fileRef = 11706B01299554E30020FE1D /* whackBad.caf */; };
 		11706B04299554E30020FE1D /* whack.caf in Resources */ = {isa = PBXBuildFile; fileRef = 11706B02299554E30020FE1D /* whack.caf */; };
 		11706B07299573D10020FE1D /* WhackSlot.swift in Sources */ = {isa = PBXBuildFile; fileRef = 11706B06299573D10020FE1D /* WhackSlot.swift */; };
+		118042F72996D793000E709C /* gameOverS.caf in Resources */ = {isa = PBXBuildFile; fileRef = 118042F62996D793000E709C /* gameOverS.caf */; };
+		118042FA2996D8C9000E709C /* ComeIntoOrOut.sks in Resources */ = {isa = PBXBuildFile; fileRef = 118042F92996D8C9000E709C /* ComeIntoOrOut.sks */; };
+		118042FD2996D8D3000E709C /* HitParticles.sks in Resources */ = {isa = PBXBuildFile; fileRef = 118042FC2996D8D3000E709C /* HitParticles.sks */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -30,6 +33,9 @@
 		11706B01299554E30020FE1D /* whackBad.caf */ = {isa = PBXFileReference; lastKnownFileType = file; path = whackBad.caf; sourceTree = "<group>"; };
 		11706B02299554E30020FE1D /* whack.caf */ = {isa = PBXFileReference; lastKnownFileType = file; path = whack.caf; sourceTree = "<group>"; };
 		11706B06299573D10020FE1D /* WhackSlot.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WhackSlot.swift; sourceTree = "<group>"; };
+		118042F62996D793000E709C /* gameOverS.caf */ = {isa = PBXFileReference; lastKnownFileType = file; path = gameOverS.caf; sourceTree = "<group>"; };
+		118042F92996D8C9000E709C /* ComeIntoOrOut.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = ComeIntoOrOut.sks; sourceTree = "<group>"; };
+		118042FC2996D8D3000E709C /* HitParticles.sks */ = {isa = PBXFileReference; lastKnownFileType = file.sks; path = HitParticles.sks; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -72,6 +78,9 @@
 				11706AF92995530E0020FE1D /* Info.plist */,
 				11706B02299554E30020FE1D /* whack.caf */,
 				11706B01299554E30020FE1D /* whackBad.caf */,
+				118042F62996D793000E709C /* gameOverS.caf */,
+				118042F92996D8C9000E709C /* ComeIntoOrOut.sks */,
+				118042FC2996D8D3000E709C /* HitParticles.sks */,
 			);
 			path = Project14;
 			sourceTree = "<group>";
@@ -133,7 +142,10 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				118042F72996D793000E709C /* gameOverS.caf in Resources */,
 				11706AF6299553030020FE1D /* Main.storyboard in Resources */,
+				118042FA2996D8C9000E709C /* ComeIntoOrOut.sks in Resources */,
+				118042FD2996D8D3000E709C /* HitParticles.sks in Resources */,
 				11706B04299554E30020FE1D /* whack.caf in Resources */,
 				11706B03299554E30020FE1D /* whackBad.caf in Resources */,
 				11706AED299553030020FE1D /* GameScene.sks in Resources */,
